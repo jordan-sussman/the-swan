@@ -1,6 +1,6 @@
 # The Swan - Lost Hatch Simulator
 
-<p align="center"><img width="200" src="src/assets/swan.png"></p>
+<p align="center"><img width="200" src="assets/swan.png"></p>
 
 You and your partner are currently located in station three, or The Swan. The following protocol must be observed:
 
