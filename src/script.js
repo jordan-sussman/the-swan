@@ -45,11 +45,13 @@ input.onkeydown = (event) => {
       siren.pause()
       siren.currentTime = 0
       reset.play()
-    } 
-    else (input.value == 'terminate') {
+    } else if (input.value != '4 8 15 16 23 42') {
       document.title = 4
       input.value = ''
       siren.play()
+    } else {
+      input.value = ''
+    }
   }
 }
 
